@@ -14,11 +14,11 @@ OBJETIVO ESPECÍFICO.
 
 MARCO TEORICO.
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe9/blob/main/MP1.jpeg)
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe9/blob/main/MP2.jpeg)
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe9/blob/main/MP3.jpeg)
 
 EJERCICIOS.
 
