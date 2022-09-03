@@ -8,9 +8,13 @@ NRC: 7322.
 
 DOCENTE: ING. DARWIN OMAR ALULEMA FLORES.
 
-OBJETIVO GENERAL.
+OBJETIVO GENERAL. Podemos determinar que la resonancia de un circuito RLC serie, se da cuando las reactancias inductiva y capacitiva son iguales en magnitud, pero se cancelan entre ellas porque están desfasadas 180 grados. 
 
-OBJETIVO ESPECÍFICO.
+Los Filtros Pasivos son circuitos que controlan la señal de salida en función de la frecuencia, se utilizan principalmente para separar un grupo de frecuencias de otras.
+
+OBJETIVO ESPECÍFICO. Un circuito RLC en serie, alimentado por una señal alterna (fuente de tensión de corriente alterna), hay un efecto de esta en cada uno de los componentes.
+
+En los Filtros Pasivos la pendiente se mide en decibelios por octava. Una octava es el doble de algo.
 
 MARCO TEORICO.
 
@@ -183,18 +187,29 @@ SECCIÓN 18–3 Filtros pasabanda
 22. Determine la separación de las frecuencias centrales en todas las posiciones del interruptor de la figura 18-45. 
 ¿Se traslapan algunas de las respuestas? Suponga que RW 0 Æ para cada bobina.
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe9/blob/main/EJ33.png)
 
 SECCIÓN 18–4 Filtros Rechazabanda
 
 24. Determine la frecuencia central para cada filtro mostrado en la figura 18-46.
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe9/blob/main/EJ34.png)
 
 26. Si la resistencia de las bobinas de la figura 18-47 es de 8 Æ, ¿cuál es el voltaje de salida en condición de resonancia cuando Vent 50 V?
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe9/blob/main/EJ35.png)
 
+CONCLUSIONES.
+
+- En conclusión en la Resonancia en un circuito LCR en serie tiene una condición de resonancia la que se realiza en las oscilaciones forzadas de una masa unida a un muelle elástico.
+
+- En conclusión, los Filtros Pasivos son aquellos tipos de filtros formados por combinaciones serie o paralelo de elementos R, L o C.
+
+- En los Filtros Pasivos las gráficas logarítmicas, esto da una linea recta, que empieza a decaer en la fecuencia de corte con otra linea recta, y la pendiente de esta recta es lo que marca el orden del filtro.
+
+BIBLIOGRAFÍA.
+
+Floyd, T. (2007). Principios de circuitos eléctricos (8.a ed., Vol. 1). Pearson Education. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf 0 comments on commit 73edc1a.
 
 
 
